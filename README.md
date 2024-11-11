@@ -1,1 +1,1 @@
-Python orientado a objetos - Exercícios e aprendizado
+Exercícios e aprendizado
