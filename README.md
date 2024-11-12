@@ -1,1 +1,1 @@
-Exercícios e aprendizado
+Projetos e aprendizado
