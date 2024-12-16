@@ -69,3 +69,7 @@
 # print(f'A área desse quadrado é {area(a)}m quadrados')
 
 #8.4
+# def a_trian(b,h):
+#     return (b*h)/2
+
+# print(f'Area caso a base fosse 6 e a altura 9 ={a_trian(6,9)}')
